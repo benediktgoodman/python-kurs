@@ -1,7 +1,6 @@
 # Python i språkmodellenes tidsalder
 
-Dette kurset gir en innføring i viktige Python-konsepter, med fokus på grunnleggende objektorientert programmering og databehandling. Målet er å g en bedre forståelse av hvordan Python fungerer og hvordan man kan bruke denne kunnskapen til å løse problemer mer effektivt.
-For det er jo slik at jo bedre man forstår innen programmering, jo bedre løsninger kan man google seg frem til 
+Dette kurset gir en innføring i viktige Python-konsepter, med fokus på grunnleggende objektorientert programmering og databehandling. Målet er å gi en bedre forståelse av hvordan Python fungerer og hvordan man kan bruke denne kunnskapen til å løse problemer mer effektivt.
 
 ## Innhold
 
@@ -14,6 +13,8 @@ Kurset består av følgende moduler:
 5. **Logikk**: Hvordan man bruker logiske operasjoner i Python.
 6. **Loops**: Forklaring av ulike typer løkker og deres bruksområder.
 7. **Hvordan fungerer forsystemklassene**: En modul som ser på hvordan objektorientering brukes i nasjonalregnskapet.
+
+Kurset er primært på engelsk
 
 ## Målgruppe
 
@@ -33,8 +34,8 @@ Etter kurset vil deltakerne:
 
 ## Ressurser
 
-Kurset bruker Jupyter notebooks som kombinerer forklaringer og kodeeksempler. Deltakerne oppfordres til å prøve seg frem med koden for å få praktisk erfaring.
+Kurset bruker Jupyter notebooks som kombinerer forklaringer og kodeeksempler. Deltakerne oppfordres til å prøve seg frem med koden for å få praktisk erfaring. Kurset har også oppgaver i mappen `exercises`
 
 ---
 
-Dette kurset er laget av Benedikt Goodman ved Statistisk sentralbyrå, med støtte fra AI-verktøy for å gi et oppdatert og relevant læringsmateriale.
+Dette kurset er laget av Benedikt Goodman ved Statistisk sentralbyrå, med støtte fra AI-verktøy.
